@@ -1,2 +1,2 @@
 
-my personal porfolio with a tailwind practice.
+Personal porfolio with responsive design and tailwind application.
