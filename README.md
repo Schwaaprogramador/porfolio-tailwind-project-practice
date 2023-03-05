@@ -1,1 +1,2 @@
-# porfolio-tailwind-project-practice
+
+my personal porfolio with a tailwind practice.
